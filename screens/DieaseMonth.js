@@ -9,7 +9,7 @@ const DieaseMonth = () => {
       <Text style={styles.text}>DieaseMonth</Text>
    </View>
    <View style={styles.flex}>bhjhhgh
-     <Text style={styles.title}>Title Atul kumar</Text>
+     <Text style={styles.title}>Title Atul kumar kumar</Text>
    </View>
    <View style={styles.description}>
    <Text style={styles.title}>Description</Text>  
